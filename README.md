@@ -238,3 +238,6 @@ This repository serves as the official landing page for DOSBox. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DOSBox today!**
+
+---
+**Last updated:** 2026-09-07 19:42:45 UTC
