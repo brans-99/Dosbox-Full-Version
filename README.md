@@ -240,4 +240,4 @@ This repository serves as the official landing page for DOSBox. The software is 
 **Get the most recent version of DOSBox today!**
 
 ---
-**Last updated:** 2026-09-17 21:59:00 UTC
+**Last updated:** 2026-09-18 00:06:13 UTC
